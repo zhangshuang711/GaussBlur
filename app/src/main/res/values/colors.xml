@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="blue">#3272DE</color>
+    <color name="gray">#999999</color>
+    <color name="ct_cutline_gray">#999999</color>
+    <color name="light_gray">#EEEEEB</color>
+    <color name="option_gray">#FAFAFA</color>
+</resources>

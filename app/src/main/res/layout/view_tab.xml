@@ -1,0 +1,109 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- one -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0">
+
+        <Button
+            android:id="@+id/button_state1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:button="@null"
+            android:drawableTop="@drawable/ic_me_selector"
+            android:gravity="center"
+            android:singleLine="true"
+            android:tag="one"
+            android:text="one"
+            android:textColor="@drawable/tab_text_color"
+            android:textSize="14sp"/>
+    </FrameLayout>
+
+    <!-- two -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0">
+
+        <Button
+            android:id="@+id/button_state2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:button="@null"
+            android:drawableTop="@drawable/ic_me_selector"
+            android:gravity="center"
+            android:singleLine="true"
+            android:tag="two"
+            android:text="two"
+            android:textColor="@drawable/tab_text_color"
+            android:textSize="14sp"/>
+    </FrameLayout>
+
+    <!-- 快速入口 -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0">
+
+        <ImageView
+            android:id="@+id/quick"
+            android:layout_width="89px"
+            android:layout_height="89px"
+            android:layout_gravity="center"
+            android:layout_marginBottom="4px"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:src="@mipmap/quick"/>
+    </FrameLayout>
+
+    <!-- three -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0">
+
+        <Button
+            android:id="@+id/button_state3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:button="@null"
+            android:drawableTop="@drawable/ic_me_selector"
+            android:gravity="center"
+            android:singleLine="true"
+            android:tag="three"
+            android:text="three"
+            android:textColor="@drawable/tab_text_color"
+            android:textSize="14sp"/>
+    </FrameLayout>
+
+    <!-- four -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0">
+
+        <Button
+            android:id="@+id/button_state4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:button="@null"
+            android:drawableTop="@drawable/ic_me_selector"
+            android:gravity="center"
+            android:singleLine="true"
+            android:tag="four"
+            android:text="four"
+            android:textColor="@drawable/tab_text_color"
+            android:textSize="14sp"/>
+    </FrameLayout>
+
+</merge>
