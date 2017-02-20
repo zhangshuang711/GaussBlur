@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.zhsh.gaussblur;
+package com.example.zhsh.gaussblur.utils;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;

@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
 
+import com.example.zhsh.gaussblur.utils.SystemBarTintManager;
 import com.zhy.autolayout.AutoLayoutActivity;
 
 

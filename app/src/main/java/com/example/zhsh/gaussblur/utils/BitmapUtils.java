@@ -1,4 +1,4 @@
-package com.example.zhsh.gaussblur;
+package com.example.zhsh.gaussblur.utils;
 
 import android.annotation.TargetApi;
 import android.content.Context;

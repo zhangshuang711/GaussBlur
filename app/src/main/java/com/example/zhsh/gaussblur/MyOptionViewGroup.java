@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.TranslateAnimation;
 
+import com.example.zhsh.gaussblur.utils.ScreenUtils;
+
 import java.util.List;
 
 /**
@@ -282,7 +284,7 @@ public class MyOptionViewGroup extends ViewGroup {
                 int top = 0;
 //				if(addCount == 0){
                 if(isadd){//是增加按钮的移动
-                    top =( view.getTop() -ScreenUtils.getScreenHeight(context))+ Ymove;
+                    top =( view.getTop() - ScreenUtils.getScreenHeight(context))+ Ymove;
                 }else{
                     top = view.getTop() + Ymove;
                 }

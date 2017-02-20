@@ -1,4 +1,4 @@
-package com.example.zhsh.gaussblur;
+package com.example.zhsh.gaussblur.utils;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

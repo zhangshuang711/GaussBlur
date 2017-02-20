@@ -23,6 +23,15 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.zhsh.gaussblur.fragment.FragmentFour;
+import com.example.zhsh.gaussblur.fragment.FragmentOne;
+import com.example.zhsh.gaussblur.fragment.FragmentThree;
+import com.example.zhsh.gaussblur.fragment.FragmentTwo;
+import com.example.zhsh.gaussblur.utils.AppUtils;
+import com.example.zhsh.gaussblur.utils.BitmapUtils;
+import com.example.zhsh.gaussblur.utils.FragmentUtils;
+import com.example.zhsh.gaussblur.utils.ScreenUtils;
+
 import java.util.ArrayList;
 import java.util.List;
 
