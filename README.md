@@ -1,4 +1,4 @@
 # GaussBlur
 
-![](https://github.com/zhangshuang711/GaussBlur/app/aa.gif)
+![](https://github.com/zhangshuang711/GaussBlur/blob/master/app/aa.gif)
 
